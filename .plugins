@@ -1,0 +1,10 @@
+mafredri/zsh-async
+sindresorhus/pure
+oh-my-zsh/plugins/git
+oh-my-zsh/plugins/brew
+oh-my-zsh/plugins/brew-cask
+oh-my-zsh/plugins/command-not-found
+zsh-users/zsh-completions
+zsh-users/zsh-syntax-highlighting
+trapd00r/zsh-syntax-highlighting-filetypes
+zsh-users/zsh-history-substring-search
